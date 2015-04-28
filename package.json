@@ -1,0 +1,12 @@
+{
+  "name": "asia-web-app",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "backbone": "latest",
+    "requirejs": "latest",
+    "connect": "2.7.0",
+    "underscore": "latest",
+    "jquery": "latest"
+  }
+}
